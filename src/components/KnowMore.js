@@ -38,9 +38,9 @@ class KnowMore extends React.Component {
                     <p>7. Songs do play, Please checkout settings menu</p>
                     <p>Github-Link : <a href="https://github.com/abhikunu007/iPod">iPod</a> 
                     </p>
-                    <p>Hosting-Link : <a href="https://github.com/JAIROHJ/ipod-app">iPod-Hosted</a> 
+                    <p>Hosting-Link : <a href="https://github.com/abhikunu007/iPod">iPod-Hosted</a> 
                     </p>
-                    <p>App Developed by : <a href="https://github.com/JAIROHJ">Abhishek Kumar</a></p>
+                    <p>App Developed by : <a href="https://github.com/abhikunu007">Abhishek Kumar</a></p>
                     <p>credits : Coding Ninjas, Abhishek</p>
                 </div>
                 <button id="info-btn" onClick={this.openDiv}>Know More</button>
