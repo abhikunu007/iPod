@@ -36,9 +36,9 @@ class KnowMore extends React.Component {
                     <p>5. To navigate between a menu items you need to rotate on track wheel</p>
                     <p>6. To go to next menu or go inside a menu press center button and to go to previous menu press menu button</p>
                     <p>7. Songs do play, Please checkout settings menu</p>
-                    <p>Github-Link : <a href="https://github.com/abhikunu007/iPod">iPod</a> 
+                    <p>Github-Link : <a href="https://github.com/abhikunu007/ipod">iPod</a> 
                     </p>
-                    <p>Hosting-Link : <a href="https://github.com/abhikunu007/iPod">iPod-Hosted</a> 
+                    <p>Hosting-Link : <a href="https://github.com/abhikunu007/ipod">iPod-Hosted</a> 
                     </p>
                     <p>App Developed by : <a href="https://github.com/abhikunu007">Abhishek Kumar</a></p>
                     <p>credits : Coding Ninjas, Abhishek</p>
